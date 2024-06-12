@@ -1,5 +1,9 @@
 # How This Data Can Help a Doctor
 
+### Disclaimer
+
+This document is intended as a programming sample only and is not intended to provide medical or dietary advice. The data and examples provided are for illustrative purposes only. Always consult a healthcare professional for medical and dietary advice specific to individual health needs.
+
 ### Nutritional Planning
 
 - **Personalized Diets**: The data provides detailed nutritional information, allowing doctors to create personalized diet plans based on a patient's specific needs. For instance, products with high protein or high-calorie content can be prescribed to patients needing additional nutritional support.
